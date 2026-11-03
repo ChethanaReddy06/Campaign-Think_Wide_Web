@@ -1,0 +1,9 @@
+[
+  {
+    "event_id": "evt_x1",
+    "campaign_id": "cmp_test",
+    "contact_id": "ct_1",
+    "type": "opened",
+    "timestamp": "2026-08-10T09:15:04Z"
+  }
+]
